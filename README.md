@@ -2,7 +2,7 @@
 
 ```
 Wer etwas will - sucht Wege!
-Wer etwas nicht will - findet Gründe!
+Wer etwas nicht will - findet Gründe.
 ```
 
 
