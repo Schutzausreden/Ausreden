@@ -1,4 +1,4 @@
-# Schutzbehauptungen
+# Schutzbehauptungen und Kreativitätsblocker
 
 Liste gängiger Schutzbehauptungen und Kreativitätsblocker der Berliner Behörden
 
