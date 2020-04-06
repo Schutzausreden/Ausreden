@@ -1,5 +1,11 @@
 # Schutzbehauptungen und Kreativitätsblocker
 
+```
+Wer etwas will - sucht Wege!
+Wer etwas nicht will - findet Gründe!
+```
+
+
 Liste gängiger Schutzbehauptungen und Kreativitätsblocker der Berliner Behörden
 
 Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unwilligen Berliner Behörden bzw. einzelnen Mitarbeiter:innen, sammle ich jetzt hier öffentlich die mir bisher präsentierten Schutzbehauptungen und bitte auch um Beiträge anderer Betroffener mit dem Ziel, diese "Bürgerabspeisungs-, -hinhaltetaktik und Verschieberitis" aufzeigen und abwehren zu können. 
