@@ -1,6 +1,8 @@
 # Schutzbehauptungen
 Liste gängiger Schutzbehauptungen und Kreativitätsblocker
 
+<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>
+
 ```
 Die wichtigsten Schutzbehauptungen und Kreativitätsblocker
 Version 20200406
