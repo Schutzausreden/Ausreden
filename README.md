@@ -2,13 +2,14 @@
 
 Liste gängiger Schutzbehauptungen und Kreativitätsblocker der Berliner Behörden
 
-Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unwilligen Berliner Behörden bzw. einzelnen Mitarbeiter:innen, sammle ich jetzt hier öffentlich die mir bisher präsentierten Schutzbehauptungen und bitte auch um Beiträge anderer Betroffener mit dem Ziel, diese "Bürgerabspeisungs-, -hinhaltetaktik und Verschieberitis" aufzuzeigen und abwehren zu können. 
+Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unwilligen Berliner Behörden bzw. einzelnen Mitarbeiter:innen, sammle ich jetzt hier öffentlich die mir bisher präsentierten Schutzbehauptungen und bitte auch um Beiträge anderer Betroffener mit dem Ziel, diese "Bürgerabspeisungs-, -hinhaltetaktik und Verschieberitis" aufzeigen und abwehren zu können. 
 
 Hier kommen auch Updates, um die gängigen Schutzbehauptungen vorwegnehmend zu neutralisieren. Die Benannten müssen sich also ab jetzt neue einfallen lassen.
 
 Durch konsequente Kenntnis dieser Schutzbehauptungen verfangen diese ihre Wirkung bereits im Ansatz, ähnlich wie bei "Framing": wenn man es erkannt hat, ist es vollkommen wirkungslos und man kann sich dann unbefangen und inhaltlich auseinandersetzen, soweit das möglich ist. Bei einigen Berliner Behörden und Institution ist es aber fast aussichtslos.
 
 Zum Abschluss der Einstimmung noch ein positiver Aphorismus (Leserbrief im Tagesspiegel 20180813):
+
 <img src="https://raw.githubusercontent.com/Wikinaut/Schutzbehauptungen/master/20180813%20Wer%20etwas%20will%2C%20sucht%20Wege.%20Wer%20etwas%20nicht%20will%2C%20Gr%C3%BCnde.jpg" width=400>
 
 Fehlt etwas? Bitte pull-request machen!
