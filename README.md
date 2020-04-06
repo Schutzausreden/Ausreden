@@ -2,6 +2,11 @@
 
 Liste gängiger Schutzbehauptungen und Kreativitätsblocker der Berliner Behörden
 
+Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unfähigen Berliner Behörden, sammle ich jetzt hier öffentlich die mir präsentierten Schutzbehauptungen. 
+
+Durch konsequente Kenntnis dieser verfehlen sie ihre Wirkung bereits im Ansatz, ähnlich wie bei "Framing": wenn man es erkannt hat, ist es vollkommen wirkungslos und man kann sich dann unbefangen und inhaltlich auseinandersetzen. Soweit möglich ist, bei einigen Berliner Behörden und Institution ist das aber fast aussichtslos.
+
+
 Fehlt etwas? Bitte pull-request machen!
 
 <img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>
