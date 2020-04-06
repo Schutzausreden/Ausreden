@@ -52,4 +52,5 @@ Version 20200406
 „Nein, mit Geokoordinaten kann ich nichts anfangen. Ich brauche eine Adresse.“
 „Mit einem Link kann ich nichts anfangen. Google können wir nicht benutzen.“
 „Bitte reichen Sie Ihren Antrag ab dem 20.4. erneut ein, da Anträge bis einschließlich 19.4. ungelesen vernichtet/gelöscht werden.“
+„Aus Datenschutzgründen darf ich Ihnen dazu keine Auskunft geben.“
 ```
