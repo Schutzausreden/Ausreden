@@ -6,7 +6,7 @@ Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unfähigen 
 
 Hier kommen auch Updates, um die gängigen Schutzbehauptungen vorwegnehmend zu neutralisieren. Die Benannten müssen sich also ab jetzt neue einfallen lassen.
 
-Durch konsequente Kenntnis dieser Schutzbehauptungen verfangen diese ihre Wirkung bereits im Ansatz, ähnlich wie bei "Framing": wenn man es erkannt hat, ist es vollkommen wirkungslos und man kann sich dann unbefangen und inhaltlich auseinandersetzen. Soweit möglich ist, bei einigen Berliner Behörden und Institution ist das aber fast aussichtslos.
+Durch konsequente Kenntnis dieser Schutzbehauptungen verfangen diese ihre Wirkung bereits im Ansatz, ähnlich wie bei "Framing": wenn man es erkannt hat, ist es vollkommen wirkungslos und man kann sich dann unbefangen und inhaltlich auseinandersetzen, soweit das möglich ist. Bei einigen Berliner Behörden und Institution ist es aber fast aussichtslos.
 
 Zum Abschluss der Einstimmung noch ein positiver Aphorismus (Leserbrief im Tagesspiegel 20180813):
 <img src="https://raw.githubusercontent.com/Wikinaut/Schutzbehauptungen/master/20180813%20Wer%20etwas%20will%2C%20sucht%20Wege.%20Wer%20etwas%20nicht%20will%2C%20Gr%C3%BCnde.jpg" width=400>
