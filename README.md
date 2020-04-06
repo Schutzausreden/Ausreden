@@ -1,5 +1,8 @@
 # Schutzbehauptungen
-Liste gängiger Schutzbehauptungen und Kreativitätsblocker
+
+Liste gängiger Schutzbehauptungen und Kreativitätsblocker der Berliner Behörden
+
+Fehlt etwas? Bitte pull-request machen!
 
 <img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>
 
