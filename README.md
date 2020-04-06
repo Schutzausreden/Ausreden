@@ -10,6 +10,7 @@ Durch konsequente Kenntnis dieser Schutzbehauptungen verfangen diese ihre Wirkun
 
 Zum Abschluss der Einstimmung noch ein positiver Aphorismus:
 
+<img src="https://raw.githubusercontent.com/Wikinaut/Schutzbehauptungen/master/20180813%20Wer%20etwas%20will%2C%20sucht%20Wege.%20Wer%20etwas%20nicht%20will%2C%20Gr%C3%BCnde.jpg" width=400>
 
 Fehlt etwas? Bitte pull-request machen!
 
