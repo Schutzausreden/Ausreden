@@ -24,8 +24,9 @@ Fehlt etwas? Bitte pull-request machen!
 
 ```
 Die wichtigsten Schutzbehauptungen und Kreativitätsblocker
-Version 20200406
+Version Corona 20200410
 
+„Geht nicht. Sie wissen doch: wir haben Corona-Alarm.“
 „Sie, mit ihren Ideen ...“
 „Das ist doch alles nur Theorie.“
 „Man muss erst einmal die Entwicklung abwarten.“
