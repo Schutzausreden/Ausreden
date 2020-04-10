@@ -14,7 +14,7 @@ Fehlt etwas? Bitte pull-request machen! Das ist nicht Teil der Liste...
 
 <!--<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>-->
 
-<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.png" height=400>
+<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.png" width=900>
 
 ```
 Die wichtigsten Schutzbehauptungen und Kreativitätsblocker
