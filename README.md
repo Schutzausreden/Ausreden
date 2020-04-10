@@ -20,7 +20,9 @@ Zum Abschluss der Einstimmung noch ein positiver Aphorismus (Leserbrief im Tages
 
 Fehlt etwas? Bitte pull-request machen!
 
-<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>
+<!--<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>-->
+
+<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.png" height=400>
 
 ```
 Die wichtigsten Schutzbehauptungen und Kreativitätsblocker
