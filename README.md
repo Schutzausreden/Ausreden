@@ -48,4 +48,5 @@ Version Corona 20200410
 „Mit einem Link kann ich nichts anfangen. Google können wir nicht benutzen.“
 „Bitte reichen Sie Ihren Antrag ab dem 20.4. erneut ein, da Anträge bis einschließlich 19.4. ungelesen vernichtet/gelöscht werden.“
 „Aus Datenschutzgründen darf ich Ihnen dazu keine Auskunft geben.“
+„Die strengen Corona-Regelungen stellten viele Familien vor schwierige Herausforderungen. Wie auch in anderen Lebensbereichen könnten jedoch keine identischen Bedingungen gewährleistet werden.“
 ```
