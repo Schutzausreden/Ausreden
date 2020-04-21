@@ -49,4 +49,5 @@ Version Corona 20200410
 „Bitte reichen Sie Ihren Antrag ab dem 20.4. erneut ein, da Anträge bis einschließlich 19.4. ungelesen vernichtet/gelöscht werden.“
 „Aus Datenschutzgründen darf ich Ihnen dazu keine Auskunft geben.“
 „Die strengen Corona-Regelungen stellten viele Familien vor schwierige Herausforderungen. Wie auch in anderen Lebensbereichen könnten jedoch keine identischen Bedingungen gewährleistet werden.“
+„Mehr denn je verlangt die aktuelle Situation von Unternehmen schnelles, entschlossenes Handeln und eine klare, hierbei unterstützende Führungsstruktur. Die Entscheidung zurück zum Modell eines alleinigen Vorstandssprechers fiel daher früher als geplant, um in dieser beispiellosen Krise eine starke, eindeutige Führungsverantwortung sicherzustellen.“
 ```
