@@ -18,7 +18,7 @@ Fehlt etwas? Bitte pull-request machen! Das ist nicht Teil der Liste...
 
 ```
 Die wichtigsten Schutzbehauptungen und Kreativitätsblocker
-Version Corona 20200410
+Version Senfbauerwahnsinn 20200429
 
 „Geht nicht. Sie wissen doch: wir haben Corona-Alarm.“
 „Sie, mit ihren Ideen ...“
@@ -50,4 +50,5 @@ Version Corona 20200410
 „Aus Datenschutzgründen darf ich Ihnen dazu keine Auskunft geben.“
 „Die strengen Corona-Regelungen stellten viele Familien vor schwierige Herausforderungen. Wie auch in anderen Lebensbereichen könnten jedoch keine identischen Bedingungen gewährleistet werden.“
 „Mehr denn je verlangt die aktuelle Situation von Unternehmen schnelles, entschlossenes Handeln und eine klare, hierbei unterstützende Führungsstruktur. Die Entscheidung zurück zum Modell eines alleinigen Vorstandssprechers fiel daher früher als geplant, um in dieser beispiellosen Krise eine starke, eindeutige Führungsverantwortung sicherzustellen.“
+„Ich weise zurück, dass hier eine fehlerhafte Ermessensentscheidung getroffen wurde und gebe Ihrem Widerspruch nicht statt.“
 ```
