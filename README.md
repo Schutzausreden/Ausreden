@@ -14,9 +14,6 @@ Fehlt etwas? Bitte pull-request machen! Das ist nicht Teil der Liste...
 
 <!--<img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" height=300>-->
 
-#### Das ist neu:  
-#### Die aktuelle Version wird jetzt nur noch als [Textversion](https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.txt) erstellt.
-
-Die aktuelle Textversion ist [hier](https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.txt).
+#### Die aktuelle Version wird seit November 2020 nur noch als [Textversion](https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.txt) erstellt.
 
 <img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Die%20wichtigsten%20Kreativit%C3%A4tsblocker%20und%20Schutzbehauptungen.png" width=200>
