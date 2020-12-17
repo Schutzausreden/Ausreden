@@ -6,7 +6,7 @@ Quelle: Leserbrief im Tagesspiegel 20180813
 
 <img src="https://github.com/Wikinaut/Schutzbehauptungen/blob/master/Kreativit%C3%A4tsblocker-Bild.JPG" width=500 align=right>
 
-Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unwilligen Berliner Behörden bzw. einzelnen Mitarbeiter:innen, sammle ich jetzt hier öffentlich die mir bisher präsentierten Schutzbehauptungen und bitte auch um Beiträge anderer Betroffener mit dem Ziel, diese "Bürgerabspeisungs-, -hinhaltetaktik und Verschieberitis" aufzeigen und abwehren zu können. 
+Weil es mir wirklich reicht, speziell mit unfähigen und, schlimmer, unwilligen (nicht nur) Berliner Behörden bzw. einzelnen Mitarbeiter:innen, sammle ich jetzt hier öffentlich die mir bisher präsentierten Schutzbehauptungen und bitte auch um Beiträge anderer Betroffener mit dem Ziel, diese "Bürgerabspeisungs-, -hinhaltetaktik und Verschieberitis" aufzeigen und abwehren zu können. 
 
 Hier kommen auch Updates, um die gängigen Schutzbehauptungen vorwegnehmend zu neutralisieren. Die Benannten müssen sich also ab jetzt neue einfallen lassen.
 
