@@ -48,8 +48,8 @@
 #0048: „Es ist zu kalt.“ Oder: „Es wird zu kalt werden.“
 #0049: „Es ist zu heiß.“ Oder: „Es wird zu heiß werden.“
 #0050: „Wollen wir nicht machen, da wir neutral bleiben müssen.“
-#0051: „Sie können auch in der öffentlichen Fragestunde der Regionalausschüsse Ihr Anliegen vortragen. Die nächsten Ausschusssitzungen finden Sie hier...“
-#0052: (Bezirksamt Wandsbek @BAWandsbek)
+#0051: „Sie können auch in der öffentlichen Fragestunde der Regionalausschüsse Ihr Anliegen vortragen. Die nächsten Ausschusssitzungen finden Sie hier...“ Bezirksamt Wandsbek @BAWandsbek
+#0052: „Vielmehr erfolgen die Umsetzungen auf der Grundlage kontinuierlicher Abarbeitungen und damit auch in Anhängigkeit von Kapazitäten und Schwierigkeitsgraden.“ Antwort Streese auf Frage von Seibeld zu Terminen der „Umprogrammierung von Lichtsignalanlagen“ TSP-Checkpoint 19.12.2020 https://checkpoint.tagesspiegel.de/newsletter/7iR8At6O0Wu9L3tcgUuqrz
 #0053: „Dieses Problem tritt bei mir nicht auf und ich habe es auch noch von keinem anderen Benutzer gehört.“
 #0054: „Ich habe Besseres zu tun.“
 #0055: „Was Du in der Ausbildung gelernt hast, kannst Du jetzt vergessen, in der Praxis machen wir das so: ...“
