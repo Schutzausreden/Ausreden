@@ -58,7 +58,7 @@
 #0058: Ausrede des Tages aus Karlsruhe: Ordnungsamt kann für Radwegparker nur „Sie HIELTEN auf einem Radweg“ als Verstoß ahnden, da man nur Verwarngelder und keine Bußgelder mit dem Gerät schreiben könne.
 #0059: Mit dem Spruch "Dann schreiben Sie doch eine Dienstaufsichtsbeschwerde" stiegen die Kräfte ein und fuhren weg, ohne die Behinderung zu beseitigen.
 #0060: „Worauf soll ich denn noch alles achten?“ https://m.tagesspiegel.de/berlin/jungen-uebersehen-und-ueberrollt-lkw-fahrer-erhaelt-bewaehrungsstrafe/25299294.html
-#0061: „Es ist unser Auftrag als Nachrichtenredaktion, inhaltlich möglichst unkritich zu sein.“ @DLFNachrichten
+#0061: „Es ist unser Auftrag als Nachrichtenredaktion, inhaltlich möglichst unkritisch zu sein.“ @DLFNachrichten
 #0062: „Sie mit Ihrem Halbwissen. Wir können hier keine Behinderung feststellen. Wir haben eine andere rechtliche Auffassung als die Polizeipräsidentin." 24EHu von @PolizeiBerlin nach dem Hinweis auf die Geschäftsanweisung für die Umsetzung von Fahrzeugen.
 #0063: Überlanger Transporter ragt auf den Gehweg und behindert und gefährdet dort. Polizeibeamter auf der Einsatzleitzentrale meint auf die Anregung, dass Fahrzeug nicht den ohnehin schmalen Gehweg verkleinern und dort gefährden soll, dass "er ja sonst in die Fahrbahn hineinragen würde."
 #0064: "Wir entschuldigen uns nochmals für die dadurch entstandenen Unannehmlichkeiten." Denon Internetradios defacto unbrauchbar nach Änderung der vTUNER Bedingungen.
