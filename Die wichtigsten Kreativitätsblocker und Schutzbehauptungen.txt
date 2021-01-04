@@ -55,23 +55,23 @@
 #0055: „Was Du in der Ausbildung gelernt hast, kannst Du jetzt vergessen, in der Praxis machen wir das so: ...“
 #0056: „Die Novelle der Straßenverkehrsordnung wird bald sowieso zurückgenommen. Wir können daher nicht abschleppen.“ Polizei Karlsruhe
 #0057: „Die Zusatzzeichen sind in die Baugrube gefallen.“
-#0058: Ausrede des Tages aus Karlsruhe: Ordnungsamt kann für Radwegparker nur „Sie HIELTEN auf einem Radweg“ als Verstoß ahnden, da man nur Verwarngelder und keine Bußgelder mit dem Gerät schreiben könne.
-#0059: Mit dem Spruch "Dann schreiben Sie doch eine Dienstaufsichtsbeschwerde" stiegen die Kräfte ein und fuhren weg, ohne die Behinderung zu beseitigen.
+#0058: „Wir [Ordnungsamt Karlsruhe] können für Radwegparker nur »Sie _halten_ auf einem Radweg« als Verstoß ahnden, da nur Verwarngelder und keine Bußgelder mit dem Gerät geschrieben werden können.“
+#0059: „Wir beseitigen die Behinderung nicht. Dann schreiben Sie doch eine Dienstaufsichtsbeschwerde!“ Die Kräfte fuhren weg, ohne die Behinderung zu beseitigen.
 #0060: „Worauf soll ich denn noch alles achten?“ https://m.tagesspiegel.de/berlin/jungen-uebersehen-und-ueberrollt-lkw-fahrer-erhaelt-bewaehrungsstrafe/25299294.html
 #0061: „Es ist unser Auftrag als Nachrichtenredaktion, inhaltlich möglichst unkritisch zu sein.“ @DLFNachrichten
 #0062: „Sie mit Ihrem Halbwissen. Wir können hier keine Behinderung feststellen. Wir haben eine andere rechtliche Auffassung als die Polizeipräsidentin." 24EHu von @PolizeiBerlin nach dem Hinweis auf die Geschäftsanweisung für die Umsetzung von Fahrzeugen.
-#0063: Überlanger Transporter ragt auf den Gehweg und behindert und gefährdet dort. Polizeibeamter auf der Einsatzleitzentrale meint auf die Anregung, dass Fahrzeug nicht den ohnehin schmalen Gehweg verkleinern und dort gefährden soll, dass "er ja sonst in die Fahrbahn hineinragen würde."
-#0064: "Wir entschuldigen uns nochmals für die dadurch entstandenen Unannehmlichkeiten." Denon Internetradios defacto unbrauchbar nach Änderung der vTUNER Bedingungen.
+#0063: „Er [überlanger Transporter, der behindernd und gefährdend auf den Gehweg ragt] würde ja sonst in die Fahrbahn hineinragen." Polizeibeamter auf der ELZ meint das auf die Anregung hin, dass das Fahrzeug nicht den ohnehin schmalen Gehweg verkleinern und dort gefährden soll.
+#0064: „Wir entschuldigen uns nochmals für die dadurch entstandenen Unannehmlichkeiten.“ Denon Internetradios defacto unbrauchbar nach Änderung der vTUNER Bedingungen.
 #0065: „Es ist üblich, und auch der Anstand gebietet es, dass man sich beim ersten Kontakt kurz vorstellt. Das haben Sie versäumt. Daher weiß ich nicht, ob es sich um eine Bürgeranfrage oder eine Presseanfrage handelt.“ Justizministerium MeckPomm auf eine Anfrage nach dem IFG Juli 2020.
 #0066: „Im Ergebnis dessen wird die Bußgeldbehörde Leipzig ab sofort Ihre Anzeigen nach Prüfung zurückweisen und nicht weiterverfolgen und somit nicht weiter unterstützend mitwirken.“
 #0067: „Hier sind mehrere Senatsverwaltungen zuständig.“ SPD-Fraktion Charlottenburg-Wilmersdorf @spdfraktioncw https://twitter.com/spdfraktioncw/status/1315342483921010689?s=09
-#0068: „Da muss ich erstmal den Zollstock holen..“ Schutzbehauptung einer jungen Beamtin anstatt zuerst eine Halterabfrage zu machen und dann ggf. die Rolle anzufordern. https://twitter.com/Poliauwei/status/1327195811772571648
+#0068: „Da muss ich erstmal den Zollstock holen.“ Schutzbehauptung einer jungen Beamtin anstatt zuerst eine Halterabfrage zu machen und dann ggf. die Rolle anzufordern. https://twitter.com/Poliauwei/status/1327195811772571648
 #0069: „Promotion ist [Giffeys] Privatsache.“ https://plus.tagesspiegel.de/anwalt-aeussert-sich-in-plagiatsaffaere-promotion-ist-giffeys-privatsache-68300.html Anwalt äußert sich zur Plagiatsaffäre „Giffey“
 #0070: „Mir reichts jetzt echt mit Ihnen, ich blockiere Sie jetzt, sorry.“ https://twitter.com/c_drosten/status/1329457311270768644
 #0071: „Die Anfrage betrifft Sachverhalte, die der Senat nicht aus eigener Zuständigkeit und Kenntnis beantworten kann.“ Ingmar Streese zum Taxiparken auf dem Gehweg vor dem Hauptbahnhof Checkpoint 23.11.2020
 #0072: „Da das Ordnungsamt lediglich die anzeigenaufnehmende Stelle ist… [und das Verfahren durch die Ahndungsbehörde, den Polizeipräsidenten von Berlin (Bußgeldstelle) geführt wird, liegen beim Bezirksamt Mitte keine statistischen Daten hierzu vor. Tatsächlich] kann in der Agnes-Zahn-Harnack-Straße kein Parken auf dem Gehweg geahndet werden.“ Antwort Bezirksamt Mitte
 #0073: „Dann prüfen wir den Plan, ordnen an, und der Bezirk setzt um.“ Jan Thomsen https://twitter.com/thomsen_jp/status/1330934298418040842
-#0074: „[Es] wird ein Hardware-Defekt an einem zentralen Bauteil als Auslöser vermutet.“ VODAPHONE Mobilfunk-Blackout 23.11.2020 https://www.spiegel.de/netzwelt/web/vodafone-stoerung-massiver-ausfall-legt-mobilfunknetz-in-weiten-landesteilen-lahm-a-2d9134a7-f91a-4b96-937e-8b445de77bcf
+#0074: „Es wird ein Hardware-Defekt an einem zentralen Bauteil als Auslöser vermutet.“ VODAPHONE Mobilfunk-Blackout 23.11.2020 https://www.spiegel.de/netzwelt/web/vodafone-stoerung-massiver-ausfall-legt-mobilfunknetz-in-weiten-landesteilen-lahm-a-2d9134a7-f91a-4b96-937e-8b445de77bcf
 #0075: „Dafür haben wir eine Sondererlaubnis.“ Autohaus König [sinngemäß] zur mutmaßlich illegalen Sondernutzung. 
 #0076: „Sie kennen diesen Begriff im Gegensatz zu mir offensichtlich nicht richtig.“ https://twitter.com/professorkanake/status/1338951343248207872
 #0077: „In dem Bereich habe ich keine Zuständigkeit, die Antwort auf Ihre Frage werden wir nachreichen und dem Ausschusssekretariat zuleiten.“ https://twitter.com/ijonberlin/status/1337105526409359360?s=09
