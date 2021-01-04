@@ -39,7 +39,7 @@
 #0039: „Für Radfahrer besteht ebenfalls das Rechtsfahrgebot.“
 #0040: „Wir können leider nicht überall sein.“
 #0041: „Wir lassen uns von Ihnen nicht vorschreiben, wie wir unseren Job zu machen haben.“
-#0042: „Stellen Sie sich nicht so an!“, gerne auch kombiniert mit  „Stellen Sie sich nicht so an, da können Sie doch vorbeifahren!“ oder sogar „Stellen Sie sich nicht so an, da können Sie doch absteigen und schieben!"
+#0042: „Stellen Sie sich nicht so an!“
 #0043: „Da kommen Sie doch drum herum.“
 #0044: „Irgendwo muss er ja parken.“
 #0045: „Soll ich den jetzt wirklich aufschreiben?“
@@ -59,8 +59,8 @@
 #0059: „Wir beseitigen die Behinderung nicht. Dann schreiben Sie doch eine Dienstaufsichtsbeschwerde!“ Die Kräfte fuhren weg, ohne die Behinderung zu beseitigen.
 #0060: „Worauf soll ich denn noch alles achten?“ https://m.tagesspiegel.de/berlin/jungen-uebersehen-und-ueberrollt-lkw-fahrer-erhaelt-bewaehrungsstrafe/25299294.html
 #0061: „Es ist unser Auftrag als Nachrichtenredaktion, inhaltlich möglichst unkritisch zu sein.“ @DLFNachrichten
-#0062: „Sie mit Ihrem Halbwissen. Wir können hier keine Behinderung feststellen. Wir haben eine andere rechtliche Auffassung als die Polizeipräsidentin." 24EHu von @PolizeiBerlin nach dem Hinweis auf die Geschäftsanweisung für die Umsetzung von Fahrzeugen.
-#0063: „Er [überlanger Transporter, der behindernd und gefährdend auf den Gehweg ragt] würde ja sonst in die Fahrbahn hineinragen." Polizeibeamter auf der ELZ meint das auf die Anregung hin, dass das Fahrzeug nicht den ohnehin schmalen Gehweg verkleinern und dort gefährden soll.
+#0062: „Sie mit Ihrem Halbwissen. Wir können hier keine Behinderung feststellen. Wir haben eine andere rechtliche Auffassung als die Polizeipräsidentin.“ 24EHu von @PolizeiBerlin nach dem Hinweis auf die Geschäftsanweisung für die Umsetzung von Fahrzeugen.
+#0063: „Er [überlanger Transporter, der behindernd und gefährdend auf den Gehweg ragt] würde ja sonst in die Fahrbahn hineinragen.“ Polizeibeamter auf der ELZ meint das auf die Anregung hin, dass das Fahrzeug nicht den ohnehin schmalen Gehweg verkleinern und dort gefährden soll.
 #0064: „Wir entschuldigen uns nochmals für die dadurch entstandenen Unannehmlichkeiten.“ Denon Internetradios defacto unbrauchbar nach Änderung der vTUNER Bedingungen.
 #0065: „Es ist üblich, und auch der Anstand gebietet es, dass man sich beim ersten Kontakt kurz vorstellt. Das haben Sie versäumt. Daher weiß ich nicht, ob es sich um eine Bürgeranfrage oder eine Presseanfrage handelt.“ Justizministerium MeckPomm auf eine Anfrage nach dem IFG Juli 2020.
 #0066: „Im Ergebnis dessen wird die Bußgeldbehörde Leipzig ab sofort Ihre Anzeigen nach Prüfung zurückweisen und nicht weiterverfolgen und somit nicht weiter unterstützend mitwirken.“
@@ -82,3 +82,5 @@
 #0082: „Wo soll ich denn sonst parken?“
 #0083: „Ich bin in der Waschanlage gewesen und musste meinen Wagen eben trocken fahren.“ Golf-Fahrer wird mit fast 100 km/h in Duisburg (Tempo 50) erwischt. https://twitter.com/FFMbyBicycle/status/1343880395977355264
 #0084: „Zielvereinbarungen gibt es zudem für alle Dienstgruppen.“ https://twitter.com/tom83089380/status/1345751391390863361
+#0085: „Stellen Sie sich nicht so an, da können Sie doch vorbeifahren!“
+#0086: „Stellen Sie sich nicht so an, da können Sie doch absteigen und schieben!“
