@@ -24,7 +24,7 @@
 #0024: „Dafür gibt es kein Formular.“
 #0025: „Das kann ich so aber nicht eingeben.“
 #0026: „Nein, mit Geokoordinaten kann ich nichts anfangen. Ich brauche eine Adresse.“
-#0027: „Mit einem Link kann ich nichts anfangen. Google können wir nicht benutzen.“
+#0027: „Mit Ihrem Link zum Internet kann ich nichts anfangen. GoogleMaps können wir nicht benutzen – wir haben SAP.“
 #0028: „Bitte reichen Sie Ihren Antrag ab dem 20.4. erneut ein, da Anträge bis einschließlich 19.4. ungelesen vernichtet/gelöscht werden.“
 #0029: „Aus Datenschutzgründen darf ich Ihnen dazu keine Auskunft geben.“
 #0030: „Die strengen Corona-Regelungen stellten viele Familien vor schwierige Herausforderungen. Wie auch in anderen Lebensbereichen könnten jedoch keine identischen Bedingungen gewährleistet werden.“
