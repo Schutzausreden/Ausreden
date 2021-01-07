@@ -85,3 +85,6 @@
 #0085: „Stellen Sie sich nicht so an, da können Sie doch vorbeifahren!“
 #0086: „Stellen Sie sich nicht so an, da können Sie doch absteigen und schieben!“
 #0087: „Wir hatten unsere Dienstleister beauftragt, die Rechenleistungen so hochzufahren, dass die steigenden Nutzerzahlen aufgefangen werden können.“ @SenBJF
+#0088: „[Ein Teil dieser Antworten] Die Antwort würde die Bevölkerung verunsichern.“
+#0089: „Weil unser Plan nicht aufging.“ tw1345681626446102528
+#0090: „Eine Priorisierung war nicht möglich.“ tw1345681626446102528
