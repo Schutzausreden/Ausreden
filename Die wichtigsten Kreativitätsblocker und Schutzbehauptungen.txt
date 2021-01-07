@@ -64,24 +64,24 @@
 #0064: „Wir entschuldigen uns nochmals für die dadurch entstandenen Unannehmlichkeiten.“ Denon Internetradios defacto unbrauchbar nach Änderung der vTUNER Bedingungen.
 #0065: „Es ist üblich, und auch der Anstand gebietet es, dass man sich beim ersten Kontakt kurz vorstellt. Das haben Sie versäumt. Daher weiß ich nicht, ob es sich um eine Bürgeranfrage oder eine Presseanfrage handelt.“ Justizministerium MeckPomm auf eine Anfrage nach dem IFG Juli 2020.
 #0066: „Im Ergebnis dessen wird die Bußgeldbehörde Leipzig ab sofort Ihre Anzeigen nach Prüfung zurückweisen und nicht weiterverfolgen und somit nicht weiter unterstützend mitwirken.“
-#0067: „Hier sind mehrere Senatsverwaltungen zuständig.“ SPD-Fraktion Charlottenburg-Wilmersdorf @spdfraktioncw https://twitter.com/spdfraktioncw/status/1315342483921010689?s=09
-#0068: „Da muss ich erstmal den Zollstock holen.“ Schutzbehauptung einer jungen Beamtin anstatt zuerst eine Halterabfrage zu machen und dann ggf. die Rolle anzufordern. https://twitter.com/Poliauwei/status/1327195811772571648
+#0067: „Hier sind mehrere Senatsverwaltungen zuständig.“ SPD-Fraktion Charlottenburg-Wilmersdorf @spdfraktioncw tw1315342483921010689?s=09
+#0068: „Da muss ich erstmal den Zollstock holen.“ Schutzbehauptung einer jungen Beamtin anstatt zuerst eine Halterabfrage zu machen und dann ggf. die Rolle anzufordern. tw1327195811772571648
 #0069: „Promotion ist [Giffeys] Privatsache.“ https://plus.tagesspiegel.de/anwalt-aeussert-sich-in-plagiatsaffaere-promotion-ist-giffeys-privatsache-68300.html Anwalt äußert sich zur Plagiatsaffäre „Giffey“
-#0070: „Mir reichts jetzt echt mit Ihnen, ich blockiere Sie jetzt, sorry.“ https://twitter.com/c_drosten/status/1329457311270768644
+#0070: „Mir reichts jetzt echt mit Ihnen, ich blockiere Sie jetzt, sorry.“ tw1329457311270768644
 #0071: „Die Anfrage betrifft Sachverhalte, die der Senat nicht aus eigener Zuständigkeit und Kenntnis beantworten kann.“ Ingmar Streese zum Taxiparken auf dem Gehweg vor dem Hauptbahnhof Checkpoint 23.11.2020
 #0072: „Da das Ordnungsamt lediglich die anzeigenaufnehmende Stelle ist… [und das Verfahren durch die Ahndungsbehörde, den Polizeipräsidenten von Berlin (Bußgeldstelle) geführt wird, liegen beim Bezirksamt Mitte keine statistischen Daten hierzu vor. Tatsächlich] kann in der Agnes-Zahn-Harnack-Straße kein Parken auf dem Gehweg geahndet werden.“ Antwort Bezirksamt Mitte
-#0073: „Dann prüfen wir den Plan, ordnen an, und der Bezirk setzt um.“ Jan Thomsen https://twitter.com/thomsen_jp/status/1330934298418040842
+#0073: „Dann prüfen wir den Plan, ordnen an, und der Bezirk setzt um.“ Jan Thomsen tw1330934298418040842
 #0074: „Es wird ein Hardware-Defekt an einem zentralen Bauteil als Auslöser vermutet.“ VODAPHONE Mobilfunk-Blackout 23.11.2020 https://www.spiegel.de/netzwelt/web/vodafone-stoerung-massiver-ausfall-legt-mobilfunknetz-in-weiten-landesteilen-lahm-a-2d9134a7-f91a-4b96-937e-8b445de77bcf
 #0075: „Dafür haben wir eine Sondererlaubnis.“ Autohaus König [sinngemäß] zur mutmaßlich illegalen Sondernutzung. 
-#0076: „Sie kennen diesen Begriff im Gegensatz zu mir offensichtlich nicht richtig.“ https://twitter.com/professorkanake/status/1338951343248207872
-#0077: „In dem Bereich habe ich keine Zuständigkeit, die Antwort auf Ihre Frage werden wir nachreichen und dem Ausschusssekretariat zuleiten.“ https://twitter.com/ijonberlin/status/1337105526409359360?s=09
-#0078: „Der Senat tagt immer dienstags.“ https://twitter.com/RegBerlin/status/1309089640771719169 Danke Herr Bürgermeister, dass Sie handeln. Aber wieso erst Dienstag und nicht jetzt?
+#0076: „Sie kennen diesen Begriff im Gegensatz zu mir offensichtlich nicht richtig.“ tw1338951343248207872
+#0077: „In dem Bereich habe ich keine Zuständigkeit, die Antwort auf Ihre Frage werden wir nachreichen und dem Ausschusssekretariat zuleiten.“ tw1337105526409359360?s=09
+#0078: „Der Senat tagt immer dienstags.“ tw1309089640771719169 Danke Herr Bürgermeister, dass Sie handeln. Aber wieso erst Dienstag und nicht jetzt?
 #0079: „Wir haben nicht falsch gehandelt. Wir haben nur zu wenig gemacht.“ Winfried Kretschmann zum Corona-Shutdown im Slomka-Interview 13.12.2020
 #0080: „Wir bitten Sie, sich an unserer ersten Nachricht zu orientieren und von weiteren Anfragen, die nicht der Lösungsfindung beitragen, abzusehen. Weitere Anfragen werden von uns nicht mehr beantwortet.“ MediaMarkt Kundenservice
-#0081: „Vielen Dank allen Beteiligten für die konstruktive Kritik. Nachdem sich hier zahlreiche Verkehrsrechtsexperten eingefunden haben, klinken wir uns an dieser Stelle aus.“ Polizei OberbayernN https://twitter.com/polizeiOBN/status/1340980767464239105
+#0081: „Vielen Dank allen Beteiligten für die konstruktive Kritik. Nachdem sich hier zahlreiche Verkehrsrechtsexperten eingefunden haben, klinken wir uns an dieser Stelle aus.“ Polizei OberbayernN tw1340980767464239105
 #0082: „Wo soll ich denn sonst parken?“
-#0083: „Ich bin in der Waschanlage gewesen und musste meinen Wagen eben trocken fahren.“ Golf-Fahrer wird mit fast 100 km/h in Duisburg (Tempo 50) erwischt. https://twitter.com/FFMbyBicycle/status/1343880395977355264
-#0084: „Zielvereinbarungen gibt es zudem für alle Dienstgruppen.“ https://twitter.com/tom83089380/status/1345751391390863361
+#0083: „Ich bin in der Waschanlage gewesen und musste meinen Wagen eben trocken fahren.“ Golf-Fahrer wird mit fast 100 km/h in Duisburg (Tempo 50) erwischt. tw1343880395977355264
+#0084: „Zielvereinbarungen gibt es zudem für alle Dienstgruppen.“ tw1345751391390863361
 #0085: „Stellen Sie sich nicht so an, da können Sie doch vorbeifahren!“
 #0086: „Stellen Sie sich nicht so an, da können Sie doch absteigen und schieben!“
 #0087: „Wir hatten unsere Dienstleister beauftragt, die Rechenleistungen so hochzufahren, dass die steigenden Nutzerzahlen aufgefangen werden können.“ @SenBJF
