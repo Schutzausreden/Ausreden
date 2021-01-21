@@ -88,3 +88,4 @@
 #0088: „[Ein Teil dieser Antworten] Die Antwort würde die Bevölkerung verunsichern.“
 #0089: „Weil unser Plan nicht aufging.“ tw1345681626446102528
 #0090: „Eine Priorisierung war nicht möglich.“ tw1345681626446102528
+#0091: „Sofern die Machbarkeit gegeben ist, wird optional ein Betreiberkonzept mit Bedarfsplanung erarbeitet.“ https://www.tagesspiegel.de/berlin/bezirke/verkehrswende-in-berlin-spandau-der-lange-traum-vom-fahrradparkhaus/26834512.html
