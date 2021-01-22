@@ -90,4 +90,5 @@
 #0090: „Eine Priorisierung war nicht möglich.“ tw1345681626446102528
 #0091: „Sofern die Machbarkeit gegeben ist, wird optional ein Betreiberkonzept mit Bedarfsplanung erarbeitet.“ https://www.tagesspiegel.de/berlin/bezirke/verkehrswende-in-berlin-spandau-der-lange-traum-vom-fahrradparkhaus/26834512.html
 #0092: „Da Prüfgremien der besonderen Sorgfalt verpflichtet sind, kann der zeitliche Aufwand, der für die Durchführung des komplexen Prüfverfahrens notwendig ist, allein vom Prüfgremium selbst entschieden werden. [Außerdem] Auswirkungen des Pandemiegeschehens auf den Hochschulbetrieb.“ https://www.tagesspiegel.de/wissen/verschiebung-bis-nach-berlin-wahl-moeglich-fu-berlin-kann-termin-fuer-neues-giffey-verfahren-kaum-halten/26834322.html
+#0093: „Wir sind doch keine Insel!“ tw1352554958684614656
 
