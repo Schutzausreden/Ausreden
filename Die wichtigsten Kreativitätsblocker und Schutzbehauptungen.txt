@@ -8,7 +8,7 @@
 #0008: „Irgendwie ist das zu modern ..“
 #0009: „Klingt ganz gut, aber Sie haben mich nicht überzeugt ..“
 #0010: „Das kann ich nicht entscheiden.“
-#0011: „Die Anweisungen lauten doch ganz anders ...”
+#0011: „Die Anweisungen lauten doch ganz anders ...“
 #0012: „Dafür sind wir nicht zuständig.“
 #0013: „Das macht doch nur einen Haufen Arbeit ...“
 #0014: „Das können wir nie schaffen.“
