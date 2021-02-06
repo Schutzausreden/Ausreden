@@ -96,3 +96,5 @@
 #0096: „Erlauben Sie mir die Anmerkung, aber das ist ein so komplizierter Gesamtkomplex, dass ich Ihnen darauf keine Antwort geben kann.“ Scheuer, 2021.
 #0097: „Im Großen und Ganzen ist nichts schiefgelaufen.“ Merkel, 02.02.2021
 #0098: „Ich weiß schon genug, ich muss nicht noch was dazu lernen.“ Harald Welzer, Studio 9, 01.02.2012.
+#0099: „Ich fühle mich von der Brandenburger Politik total verarscht.“ Karl-Heinz Rummenigge 06.02.2021
+
