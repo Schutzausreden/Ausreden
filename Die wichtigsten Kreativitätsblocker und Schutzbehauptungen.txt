@@ -97,4 +97,4 @@
 #0097: „Im Großen und Ganzen ist nichts schiefgelaufen.“ Merkel, 02.02.2021
 #0098: „Ich weiß schon genug, ich muss nicht noch was dazu lernen.“ Harald Welzer, Studio 9, 01.02.2012.
 #0099: „Ich fühle mich von der Brandenburger Politik total verarscht.“ Karl-Heinz Rummenigge 06.02.2021
-
+#0100: „Seien Sie froh, dass wir [BVG] Sie nicht wegen des Fotos anzeigen.“ BVG_Bus-Antwort auf belegbare Radfahrer-Gefährdung durch Busfahrer tw1361773910698639367
