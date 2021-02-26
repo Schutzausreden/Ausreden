@@ -100,4 +100,4 @@
 #0100: „Seien Sie froh, dass wir [BVG] Sie nicht wegen des Fotos anzeigen.“ BVG_Bus-Antwort auf belegbare Radfahrer-Gefährdung durch Busfahrer tw1361773910698639367
 #0101: „Diese komplexe Lage macht eine vertiefte Planung nötig und erlaubt keine temporäre Lösung.“ Berliner Woche TempSchön Seite 3 über SenUVK Berlin zum Radinfrastruktur-Ausbau des Te-Damms 17.02.2021
 #0102: „Die vorliegenden Formalverstöße parkender Fahrzeuge führen regelmäßig nicht zu Behinderungen oder gar zu Gefährdungen.“ Beschwerdestelle PolBerlin Dir5 zum Falschparken auf der Tamara-Danz-Straße tw1142547337694318593
-#0103: „Was sollen wir [Stadtreinigung] auf dem Radweg in der Diagonalsperre jetzt den Split wegfegen? Es wird doch wieder kalt…“
+#0103: „Wozu sollen wir [Stadtreinigung] auf dem Radweg im Bereich der Diagonalsperre denn jetzt den Split wegfegen? Es wird doch wieder kalt…“
