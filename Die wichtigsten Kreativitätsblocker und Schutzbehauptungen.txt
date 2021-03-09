@@ -101,5 +101,5 @@
 #0101: „Diese komplexe Lage macht eine vertiefte Planung nötig und erlaubt keine temporäre Lösung.“ Berliner Woche TempSchön Seite 3 über SenUVK Berlin zum Radinfrastruktur-Ausbau des Te-Damms 17.02.2021
 #0102: „Die vorliegenden Formalverstöße parkender Fahrzeuge führen regelmäßig nicht zu Behinderungen oder gar zu Gefährdungen.“ Beschwerdestelle PolBerlin Dir5 zum Falschparken auf der Tamara-Danz-Straße tw1142547337694318593
 #0103: „Wozu sollen wir [Stadtreinigung] auf dem Radweg im Bereich der Diagonalsperre denn jetzt den Split wegfegen? Es wird doch wieder kalt…“
-#0104: „Vielen Dank für Ihre Nachtricht. Gerne helfe ich Ihnen weiter. Leider können wir Ihnen in diesem Fall nicht weiterhelfen. Es tut mir leid. Ich hoffe, ich konnte Ihnen weiterhelfen und wünsche noch einen schönen Tag.“ tw1369207108999274498
+#0104: „Vielen Dank für Ihre Nachricht. Gerne helfe ich Ihnen weiter. Leider können wir Ihnen in diesem Fall nicht weiterhelfen. Es tut mir leid. Ich hoffe, ich konnte Ihnen weiterhelfen und wünsche noch einen schönen Tag.“ tw1369207108999274498
 
