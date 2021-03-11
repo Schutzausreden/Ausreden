@@ -104,3 +104,4 @@
 #0104: „Vielen Dank für Ihre Nachricht. Gerne helfe ich Ihnen weiter. Leider können wir Ihnen in diesem Fall nicht weiterhelfen. Es tut mir leid. Ich hoffe, ich konnte Ihnen weiterhelfen und wünsche noch einen schönen Tag.“ tw1369207108999274498
 #0105: „Das wollte ein Koalitionspartner explizit nicht. Sorry.“ tw1369695782559973387
 #0106: „Hatte gestern noch viel zuviele und viel zu lange Vicos...“ Dr. b.r. XY
+#0107: „Da muss man halt mal Abstriche machen! [Erwiderung: Stimmt. Das ist zur Zeit durchaus angebracht.]“ Christina
