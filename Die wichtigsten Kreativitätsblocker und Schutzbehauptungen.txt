@@ -105,3 +105,5 @@
 #0105: „Das wollte ein Koalitionspartner explizit nicht. Sorry.“ tw1369695782559973387
 #0106: „Hatte gestern noch viel zuviele und viel zu lange Vicos...“ Dr. b.r. XY
 #0107: „Da muss man halt mal Abstriche machen! [Erwiderung: Stimmt. Das ist zur Zeit durchaus angebracht.]“ Christina
+#0108: „Ich kann ja auch nicht immer an alle andere denken. Ich muss ja auch an mich denken.“ Report Mainz und tw1369241826721431565
+
