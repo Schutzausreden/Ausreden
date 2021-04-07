@@ -107,3 +107,4 @@
 #0107: „Da muss man halt mal Abstriche machen! [Erwiderung: Stimmt. Das ist zur Zeit durchaus angebracht.]“ Christina
 #0108: „Ich kann ja auch nicht immer an alle andere denken. Ich muss ja auch an mich denken.“ Report Mainz und tw1369241826721431565
 #0109: „[Landrat Elbe-Elster-Kreis: Wir] wären eigentlich gefordert zu handeln, haben uns aktuell aber anders entschieden.“ tw1370488888398123010/
+#0110: „Es ist nicht sinnvoll, solche Arbeiten zu bewerten, bevor sie fertig sind. Mit irgendwas muss nunmal angefangen werden.“ tw1379732880063086599
