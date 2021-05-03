@@ -110,4 +110,4 @@
 #0110: „Es ist nicht sinnvoll, solche Arbeiten zu bewerten, bevor sie fertig sind. Mit irgendwas muss nunmal angefangen werden.“ tw1379732880063086599
 #0111: „Das Postfach des Empfängers ist voll und kann zurzeit keine Nachrichten annehmen. Versuchen Sie, die Nachricht später erneut zu senden, oder wenden Sie sich direkt an den Empfänger.“ tw1383858897560113160
 #0112: „Das müssen die jeweiligen Bezirke beantworten, die kümmern sich (noch) darum.“ tw1385590833915760646
-
+#0113: „Sie wissen doch, wie es gemeint ist!“
