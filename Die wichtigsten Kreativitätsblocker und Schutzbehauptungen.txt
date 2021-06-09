@@ -111,3 +111,4 @@
 #0111: „Das Postfach des Empfängers ist voll und kann zurzeit keine Nachrichten annehmen. Versuchen Sie, die Nachricht später erneut zu senden, oder wenden Sie sich direkt an den Empfänger.“ tw1383858897560113160
 #0112: „Das müssen die jeweiligen Bezirke beantworten, die kümmern sich (noch) darum.“ tw1385590833915760646
 #0113: „Sie wissen doch, wie es gemeint ist!“
+#0114: „»Diese beinhaltete im vorliegenden Fall auch die Verpflegungsaufnahme.« [Pseudo-Rechtfertigung nach Beschwerde über falschparkende Berliner-Justiz-Fahrbereitschaft]“ tw1401925739931488260
