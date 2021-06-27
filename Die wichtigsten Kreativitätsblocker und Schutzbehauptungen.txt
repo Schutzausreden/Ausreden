@@ -112,3 +112,4 @@
 #0112: „Das müssen die jeweiligen Bezirke beantworten, die kümmern sich (noch) darum.“ tw1385590833915760646
 #0113: „Sie wissen doch, wie es gemeint ist!“
 #0114: „»Diese beinhaltete im vorliegenden Fall auch die Verpflegungsaufnahme.« [Pseudo-Rechtfertigung nach Beschwerde über falschparkende Berliner-Justiz-Fahrbereitschaft]“ tw1401925739931488260
+#0115: „Wenn wir das Ordnungsamt zu jedem falsch geparkten Auto schicken würden, dann wären wir ja nur noch unterwegs.“
