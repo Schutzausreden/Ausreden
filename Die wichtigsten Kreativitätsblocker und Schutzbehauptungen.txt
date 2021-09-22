@@ -114,3 +114,4 @@
 #0114: „»Diese beinhaltete im vorliegenden Fall auch die Verpflegungsaufnahme.« [Pseudo-Rechtfertigung nach Beschwerde über falschparkende Berliner-Justiz-Fahrbereitschaft]“ tw1401925739931488260
 #0115: $Angesprochener: „Kümmern Sie sich mal lieber um $WhataboutismNebenschauplatz!“
 #0116: „Aber der parkt ja da auch schon!“
+#0117: „Wir fordern jeden auf, das zu lassen.“ (Armin Laschet)
