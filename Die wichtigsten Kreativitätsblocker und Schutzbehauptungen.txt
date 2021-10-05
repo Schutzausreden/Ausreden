@@ -115,3 +115,4 @@
 #0115: $Angesprochener: „Kümmern Sie sich mal lieber um $WhataboutismNebenschauplatz!“
 #0116: „Aber der parkt ja da auch schon!“
 #0117: „Wir fordern jeden auf, das zu lassen.“ (Armin Laschet)
+#0118: „Aufgrund von begrenzten Speicher- und Druckkapazitäten bitten wir Anträge und Unterlagen per Briefpost (nicht per Email) zu übersenden oder in den Hausbriefkasten (Rathaus Neukölln) einzuwerfen.“ https://twitter.com/holgerhbaer/status/1445311972778643457
