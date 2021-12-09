@@ -116,3 +116,8 @@
 #0116: „Aber der parkt ja da auch schon!“
 #0117: „Wir fordern jeden auf, das zu lassen.“ (Armin Laschet)
 #0118: „Aufgrund von begrenzten Speicher- und Druckkapazitäten bitten wir Anträge und Unterlagen per Briefpost (nicht per Email) zu übersenden oder in den Hausbriefkasten (Rathaus Neukölln) einzuwerfen.“ tw1445311972778643457
+#0119: „Ich konnte nicht anhalten…“ tw1468895763098910723
+#0120: „Unklar ist, was mit Ihren Vorschlägen passiert, bzw. ob Ihre Vorschläge in den Plan eingearbeitet werden.“ tw1467926272324030471
+#0121: „Danke, dass Sie sich Zeit genommen haben. Wir hoffen, Sie sind das nächste Mal dabei, auch wenn es wieder länger dauert“ tw1467926272324030471
+#0122: „Ich hoffe, Sie haben sich gut beteiligt gefühlt.“ tw1467926272324030471
+#0123: „Aufgrund der Gehwegbreite an dieser Stelle wäre eine rechtssichere Behinderung nicht zu begründen.“ tw1460628304835325954
