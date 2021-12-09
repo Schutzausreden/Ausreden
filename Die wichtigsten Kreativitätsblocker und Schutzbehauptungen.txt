@@ -122,3 +122,7 @@
 #0122: „Ich hoffe, Sie haben sich gut beteiligt gefühlt.“ tw1467926272324030471
 #0123: „Aufgrund der Gehwegbreite an dieser Stelle wäre eine rechtssichere Behinderung nicht zu begründen.“ tw1460628304835325954
 #0124: „Die Grenze dessen, was von den Gerichten noch hingenommen werden kann, wenn der Anwaltszwang seinen Zweck erfüllen soll, ist hier eindeutig überschritten.“ tw137393752363913216
+#0125: „Wenn ihnen daran etwas liegt, und sie nichts anderes zu tun haben, können sie das machen. Was sie möchten und was nicht. Ich habe Ihnen Auskunft gegeben. Das muss reichen. (Danach legte der Leitstellendisponent einfach auf.)“ tw1362756120708800512
+#0126: „Auch für den schlecht erkennbaren Radweg, da es ja eine Hauptverkehrsstraße ist, ist ebenfalls die Senatsverwaltung für Umwelt, Verkehr und Klimaschutz zuständig.“ tw1369206847022989319
+#0127: „Wären eigentlich gefordert zu handeln, haben uns aktuell aber anders entschieden. (Landrat in Elbe-Elster, Inzidenz über 100)“ tw1370488888398123010
+#0128: „Ich habe mein Gewissen überprüft, und ich bin persönlich der Überzeugung, dass ich mich korrekt verhalten habe. (Erzbischof Woelki)“ heute-show 05.02.2021
