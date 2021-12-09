@@ -121,3 +121,4 @@
 #0121: „Danke, dass Sie sich Zeit genommen haben. Wir hoffen, Sie sind das nächste Mal dabei, auch wenn es wieder länger dauert“ tw1467926272324030471
 #0122: „Ich hoffe, Sie haben sich gut beteiligt gefühlt.“ tw1467926272324030471
 #0123: „Aufgrund der Gehwegbreite an dieser Stelle wäre eine rechtssichere Behinderung nicht zu begründen.“ tw1460628304835325954
+#0124: „Die Grenze dessen, was von den Gerichten noch hingenommen werden kann, wenn der Anwaltszwang seinen Zweck erfüllen soll, ist hier eindeutig überschritten.“ tw137393752363913216
