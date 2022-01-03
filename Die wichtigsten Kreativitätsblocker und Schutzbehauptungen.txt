@@ -126,3 +126,5 @@
 #0126: „Auch für den schlecht erkennbaren Radweg, da es ja eine Hauptverkehrsstraße ist, ist ebenfalls die Senatsverwaltung für Umwelt, Verkehr und Klimaschutz zuständig.“ tw1369206847022989319
 #0127: „Wären eigentlich gefordert zu handeln, haben uns aktuell aber anders entschieden. (Landrat in Elbe-Elster, Inzidenz über 100)“ tw1370488888398123010
 #0128: „Ich habe mein Gewissen überprüft, und ich bin persönlich der Überzeugung, dass ich mich korrekt verhalten habe. (Erzbischof Woelki)“ heute-show 05.02.2021
+#0129: „Ich kann ihnen keinen Ansprechpartner geben, da ich keinen habe.“ tw1477983366905483264
+
