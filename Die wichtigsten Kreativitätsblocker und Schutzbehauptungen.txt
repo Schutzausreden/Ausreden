@@ -128,3 +128,4 @@
 #0128: „Ich habe mein Gewissen überprüft, und ich bin persönlich der Überzeugung, dass ich mich korrekt verhalten habe. (Erzbischof Woelki)“ heute-show 05.02.2021
 #0129: „Ich kann ihnen keinen Ansprechpartner geben, da ich keinen habe.“ tw1477983366905483264
 #0130: „Das war eine inakzeptable Eskalation!“ https://www.tagesschau.de/ausland/europa/putin-atomstreitkraefte-101.html
+#0131: „Es tut uns sehr leid, dass Ihre Lieferung verspätet ist. Wir entschuldigen uns für die Unannehmlichkeiten. Wenden Sie sich an Unbekannt.“ tw1504744957315362817
