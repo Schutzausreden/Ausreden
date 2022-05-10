@@ -130,3 +130,4 @@
 #0130: „Das war eine inakzeptable Eskalation!“ https://www.tagesschau.de/ausland/europa/putin-atomstreitkraefte-101.html
 #0131: „Es tut uns sehr leid, dass Ihre Lieferung verspätet ist. Wir entschuldigen uns für die Unannehmlichkeiten. Wenden Sie sich an Unbekannt.“ tw1504744957315362817
 #0132: „Uns fehlt Papier. Wir [Krankenkassen] halten deshalb die Corona-Impfpflicht für nicht umsetzbar.“
+#0133: „Mein Auto stand an der Stier-/Ecke Hähnelstraße. Mit dem Heck etwas über das Parkraumschild hinaus vor der Ecke, ohne Fußgänger zu behindern.“ tw1524066681672409089
